@@ -1,0 +1,338 @@
+.header{
+    display: flex;
+}
+.header__browser{
+    width: min-content;
+    height: min-content;
+    text-align: start;
+}
+.header__vr{
+    width: min-content;
+    height: min-content;
+    text-align: start; 
+}
+.header-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.header-menu__logo{
+    width: 10px;
+    Width: 149.39px;
+    Height: 17.75px;
+    Top: 9.28px;
+    margin: 50px;
+}
+.header-menu__button1{
+    Width:115px;
+    Height:38px;
+    margin: 50px;
+    background: #5222D0;
+    border-radius: 100px;
+    border-color:#5222D0;
+    color: #FFFFFF;
+}
+.sidebar{
+    display: flex;
+    padding: 30px;
+    margin: 30px;
+    }
+    .sidebar__parte1_title{
+    font-family: Intro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+    }
+.sidebar__parte1_button2{
+    width: 270px;
+    height: 84px;
+    border-radius: 100px;
+    border-color:#5222D0;
+    background: #5222D0;
+    color: #FFFFFF;
+}
+.footer{
+   display: flex;
+   padding: 20px;
+   margin: 50px;
+}
+.footer__menu1{
+    padding: 20px;
+    width: 139px;
+    height: 32px;
+    left: 126px;
+    top: 788px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 150%; 
+    color: #5222D0;  
+}
+.footer__menu2{
+    padding: 20px;
+    width: 111px;
+    height: 32px;
+    left: 299px;
+    top: 788px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 150%;
+    color: #5222D0;   
+}
+.footer__menu3{
+    padding: 20px;
+    width: 95px;
+    height: 32px;
+    left: 444px;
+    top: 788px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 150%;
+    color: #5222D0;   
+}
+.footer__menu4{
+    padding: 20px;
+    width: 85px;
+    height: 32px;
+    left: 573px;
+    top: 788px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 150%; 
+    color: #5222D0;  
+}
+.sidebar__parte1_sidebar-text{
+    display: flex;
+    width: 487px;
+    height: 96px;
+    left: 126px;
+    top: 432px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.header-menu2__button1{
+    Width:115px;
+    Height:38px;
+    margin: 50px;
+    background: #5222D0;
+    border-radius: 100px;
+    border-color:#5222D0;
+    color: #FFFFFF;
+}
+.header-menu2__logo{
+    width: 10px;
+    Width: 149.39px;
+    Height: 17.75px;
+    Top: 9.28px;
+    margin: 50px;
+}
+.header-menu2{
+    display: flex;
+    justify-content: space-between;
+}
+.header2__vr{
+    width: min-content;
+    height: min-content;
+    text-align: start; 
+}
+.header2{
+    display: flex;
+}
+.header2__browser{
+    width: min-content;
+    height: min-content;
+    text-align: start;
+}
+.sidebar2__title{
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+    width: 542px;
+    height: 72px;
+    left: 125px;
+    top: 218px;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+}
+.sidebar2parte2__praktikum3{
+    border: #000000;
+}
+.sidebar2parte2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 50px;
+}
+
+.sidebar3{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 30px;
+}
+.sidebar3__parte3{
+    background-color: #EC615B;;
+}
+h3{
+    width: 365px;
+    height: 36px;
+    left: 563px;
+    top: 879px;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 0%;
+    color: #000000;
+}
+h4{
+    width: 365px;
+    height: 36px;
+    padding: 20px;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 120%;
+    color:white;   
+}
+.sidebar2parte2__praktikum1_text{
+    width: 365px;
+    height: 160px;
+    left: 1001px;
+    top: 669px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.sidebar2parte2__praktikum2_text{
+    width: 365px;
+    height: 160px;
+    left: 1001px;
+    top: 669px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;    
+}
+.sidebar2parte2__praktikum3_text{
+    width: 365px;
+    height: 160px;
+    left: 1001px;
+    top: 669px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000; 
+}
+.footer2{
+    display: flex;
+    margin: 20px;
+    padding: 50px;
+}
+.footer2__menu1{
+    width: 139px;
+    height: 32px;
+    left: 126px;
+    top: 1199px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    color: #000000;
+}
+.footer2__menu2{
+    width: 139px;
+    height: 32px;
+    left: 126px;
+    top: 1199px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    color: #000000;
+}
+    .footer2__menu3{
+    width: 139px;
+    height: 32px;
+    left: 126px;
+    top: 1199px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    color: #000000;
+}
+    .footer2__menu4{
+    width: 139px;
+    height: 32px;
+    left: 126px;
+    top: 1199px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    color: #000000;
+}
+.sidebar3__parte1_text{
+    width: 365px;
+    height: 160px;
+    left: 125px;
+    top: 925px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.sidebar3__parte2_text{
+    width: 365px;
+    height: 160px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.sidebar3__parte3__button1{
+    Width: 135px;
+    Height: 38px;
+    background: #5222D0;
+    border-radius: 100px;
+    border-color:#5222D0;
+    color: #FFFFFF;
+} 
+.form-floating{
+    width: 250px;
+    height: 80px;
+    padding: 10px;
+}  
