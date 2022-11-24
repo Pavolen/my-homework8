@@ -53,9 +53,9 @@
     color: #FFFFFF;
 }
 .footer{
-   display: flex;
-   padding: 20px;
-   margin: 50px;
+    display: flex;
+    padding: 20px;
+    margin: 50px;
 }
 .footer__menu1{
     padding: 20px;
@@ -110,11 +110,11 @@
     color: #5222D0;  
 }
 .sidebar__parte1_sidebar-text{
-    display: flex;
-    width: 487px;
-    height: 96px;
-    left: 126px;
-    top: 432px;
+    display: block;
+    width: 365px;
+    height: 160px;
+    left: 125px;
+    top: 669px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 300;
@@ -155,6 +155,11 @@
     height: min-content;
     text-align: start;
 }
+.sidebar2{
+    
+    justify-content: space-between;
+}
+
 .sidebar2__title{
     display: flex;
     margin: 20px;
@@ -175,7 +180,7 @@
 }
 .sidebar2parte2{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: 20px;
     margin: 50px;
 }
@@ -213,18 +218,20 @@ h4{
     color:white;   
 }
 .sidebar2parte2__praktikum1_text{
+    display: flex;
     width: 365px;
     height: 160px;
-    left: 1001px;
+    left: 125px;
     top: 669px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 300;
     font-size: 20px;
-    line-height: 150%;
+    line-height: 160%;
     color: #000000;
 }
 .sidebar2parte2__praktikum2_text{
+    display: flex;
     width: 365px;
     height: 160px;
     left: 1001px;
@@ -277,7 +284,7 @@ h4{
     line-height: 160%;
     color: #000000;
 }
-    .footer2__menu3{
+.footer2__menu3{
     width: 139px;
     height: 32px;
     left: 126px;
@@ -289,7 +296,7 @@ h4{
     line-height: 160%;
     color: #000000;
 }
-    .footer2__menu4{
+.footer2__menu4{
     width: 139px;
     height: 32px;
     left: 126px;
